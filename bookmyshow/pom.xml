@@ -11,7 +11,7 @@
 	<groupId>com.mskprojects</groupId>
 	<artifactId>bookmyshow</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>bookmyshow</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>

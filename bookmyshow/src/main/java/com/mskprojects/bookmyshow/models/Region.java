@@ -1,9 +1,7 @@
 package com.mskprojects.bookmyshow.models;
 
-import com.fasterxml.jackson.databind.ser.Serializers;
 import jakarta.persistence.Entity;
 import jakarta.persistence.OneToMany;
-import lombok.EqualsAndHashCode;
 import lombok.Getter;
 import lombok.Setter;
 

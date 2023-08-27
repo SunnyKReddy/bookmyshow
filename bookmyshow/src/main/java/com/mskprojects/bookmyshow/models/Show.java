@@ -11,10 +11,11 @@ import java.util.List;
 @Setter
 @Entity
 public class Show extends BaseModel{
-    private String name;
-    private String showType;
+//    private String name;
+//    private String showType;
     private Date startTime;
     private Date endTime;
+    @ManyToOne
     private Screen screen;
     @ManyToOne
     private Movie movie;
